@@ -1,4 +1,7 @@
 # Firebase-Image-Upload
+
+This is java code which describes how you can upload images from android application and store it on Firebase Cloud Storage.
+
 First you need to set up the firebase project
 or you can just connect your application with firebase realtime database.
 For this you can follow the steps below:
