@@ -25,3 +25,12 @@ Copy the java files into your project 'package' folder.
 Copy the layout files in your project 'layout' folder.
 
 Now Run
+Date : 17.02.2019
+
+
+In the latest update, you can delete the files from the firebase .
+you just hold click on the image which will open the pop up mennu.
+
+And another button is also there if you want to edit the functionality
+
+Date : 20.02.2019
